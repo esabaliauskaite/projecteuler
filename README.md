@@ -7,10 +7,5 @@ Link the JS file to a HTML file and open it in the browser of your choice. /
 OR /
 Open the folder in an IDE of your choice, move to the current directory using terminal, then type node JSfilename, for example node Problem1
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
